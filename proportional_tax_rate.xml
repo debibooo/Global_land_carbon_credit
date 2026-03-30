@@ -10,7 +10,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Africa_Eastern</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -23,7 +23,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Africa_Northern</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -36,7 +36,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Africa_Southern</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -49,7 +49,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Africa_Western</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -62,7 +62,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Argentina</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -75,7 +75,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Australia_NZ</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -88,7 +88,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Brazil</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -101,7 +101,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Canada</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -114,7 +114,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Central America and Caribbean</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -127,7 +127,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Central Asia</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -140,7 +140,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>China</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -153,7 +153,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Colombia</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -167,7 +167,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>EU-12</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -181,7 +181,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>EU-15</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -194,7 +194,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Ukraine</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -207,7 +207,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Europe_Non_EU</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -220,7 +220,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>European Free Trade Association</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -233,7 +233,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>India</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -246,7 +246,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Indonesia</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -259,7 +259,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Japan</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -272,7 +272,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Mexico</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -285,7 +285,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Middle East</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -298,7 +298,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Pakistan</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -311,7 +311,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Russia</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -324,7 +324,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>South Africa</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -337,7 +337,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>South America_Northern</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -350,7 +350,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>South America_Southern</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -363,7 +363,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>South Asia</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -376,7 +376,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>South Korea</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>
@@ -389,7 +389,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Southeast Asia</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">0</price-adjust>
@@ -402,11 +402,11 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>Taiwan</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
-            <price-adjust year="2015">0</price-adjust>
-            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
             <price-adjust year="2025" fillout="1">1</price-adjust>
          </linked-ghg-policy>
       </region>
@@ -416,7 +416,7 @@
             <price-adjust fillout="1" year="1975">0</price-adjust>
             <demand-adjust fillout="1" year="1975">1</demand-adjust>
             <market>USA</market>
-            <linked-policy>CO2_TOTAL</linked-policy>
+            <linked-policy>CO2_Tax_NearTerm</linked-policy>
             <price-unit>1990$/tC</price-unit>
             <output-unit>MtC</output-unit>
             <price-adjust year="2015">1</price-adjust>

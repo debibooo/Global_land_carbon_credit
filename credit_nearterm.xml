@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+            <!-- This is the voluntary credit price of the foretsry & land use sector for 2023. The main data source is from Voluntary Registry Offsets Database - v2025-12 developed by the Berkeley Carbon Trading Project
+             (https://gspp.berkeley.edu/berkeley-carbon-trading-project/offsets-database) and (https://www.carbmetric.com/projects).
+             -->
+   <world>
+      <region name="Africa_Eastern">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Africa_Eastern</market> 
+            <fixedTax year="2025">20.79613105</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Africa_Northern">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Africa_Northern</market>
+            <fixedTax year="2025">21.74145299</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Africa_Southern">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Africa_Southern</market>
+            <fixedTax year="2025">24.29244899</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Africa_Western">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Africa_Western</market>
+            <fixedTax year="2025">20.31667334</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Argentina">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Argentina</market>
+            <fixedTax year="2025">27.31265174</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Australia_NZ">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Australia_NZ</market>
+            <fixedTax year="2025">18.93427771</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Brazil">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Brazil</market>
+            <fixedTax year="2025">20.30506814</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Canada">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Canada</market>
+            <fixedTax year="2025">20.2313249</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Central America and Caribbean">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Central America and Caribbean</market>
+            <fixedTax year="2025">20.93774356</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Central Asia">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Central Asia</market>
+            <fixedTax year="2025">23.18461538</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="China">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>China</market>
+            <fixedTax year="2025">22.80734168</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Colombia">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Colombia</market>
+            <fixedTax year="2025">21.05459772</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="EU-12">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>EU-12</market>
+            <fixedTax year="2025">29.49213994</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="EU-15">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>EU-15</market>
+            <fixedTax year="2025">19.98333333</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Ukraine">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Ukraine</market>
+            <fixedTax year="2025">27.02051282</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Europe_Non_EU">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Europe_Non_EU</market>
+            <fixedTax year="2025">20.23717949</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="European Free Trade Association">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>European Free Trade Association</market>
+            <fixedTax year="2020">25.44102564</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="India">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>India</market>
+            <fixedTax year="2025">20.14722124</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Indonesia">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Indonesia</market>
+            <fixedTax year="2025">20.04082543</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Japan">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Japan</market>
+            <fixedTax year="2025">24.45384615</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Mexico">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Mexico</market>
+            <fixedTax year="2025">28.62833312</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Middle East">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Middle East</market>
+            <fixedTax year="2025">28.35179487</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Pakistan">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Pakistan</market>
+            <fixedTax year="2025">19.84230769</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Russia">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Russia</market>
+            <fixedTax year="2025">20.40641026</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="South Africa">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>South Africa</market>
+            <fixedTax year="2025">38.1474359</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="South America_Northern">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>South America_Northern</market>
+            <fixedTax year="2025">33.16923077</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="South America_Southern">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>South America_Southern</market>
+            <fixedTax year="2025">21.31348541</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="South Asia">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>South Asia</market>
+            <fixedTax year="2025">22.54294872</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="South Korea">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>South Korea</market>
+            <fixedTax year="2025">0</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Southeast Asia">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Southeast Asia</market>
+            <fixedTax year="2025">29.2230776</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="Taiwan">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>Taiwan</market>
+            <fixedTax year="2025">18.26282051</fixedTax>
+         </ghgpolicy>
+      </region>
+      <region name="USA">
+         <ghgpolicy name="Credit_NearTerm">
+            <market>USA</market>
+            <fixedTax year="2025">29.24381652</fixedTax>
+         </ghgpolicy>
+      </region>
+   </world>
+</scenario>
