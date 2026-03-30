@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scenario>
+   <world>
+            <!-- This is the spatial proportions of implemented carbon tax or ETS policies in 2023 for each gcam region.
+            It should be used after carbon_tax_nearterm.xml, which has the net effective carbon rates for 2023. 
+            The proportional index are calculated using the net effective carbon rates coveraged regions' emissions divided by total emissions.
+             -->
+      <region name="Africa_Eastern">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Africa_Eastern</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.428246995</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Africa_Northern">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Africa_Northern</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Africa_Southern">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Africa_Southern</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.129453977</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Africa_Western">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Africa_Western</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.076547034</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Argentina">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Argentina</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>      
+      <region name="Australia_NZ">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Australia_NZ</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Brazil">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Brazil</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Canada">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Canada</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Central America and Caribbean">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Central America and Caribbean</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.454557998</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Central Asia">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Central Asia</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.017629105</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="China">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>China</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.609597316</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Colombia">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Colombia</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+
+      <region name="EU-12">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>EU-12</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+
+         </linked-ghg-policy>
+      </region>
+      <region name="EU-15">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>EU-15</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">0.999530301</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Ukraine">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Ukraine</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Europe_Non_EU">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Europe_Non_EU</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.775589639</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="European Free Trade Association">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>European Free Trade Association</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="India">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>India</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Indonesia">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Indonesia</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Japan">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Japan</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Mexico">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Mexico</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.333333333</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Middle East">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Middle East</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.023004965</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Pakistan">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Pakistan</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Russia">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Russia</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="South Africa">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>South Africa</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="South America_Northern">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>South America_Northern</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="South America_Southern">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>South America_Southern</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.696618192</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="South Asia">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>South Asia</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="South Korea">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>South Korea</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Southeast Asia">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Southeast Asia</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">0.178866259</price-adjust>
+         </linked-ghg-policy>
+      </region>
+      <region name="Taiwan">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>Taiwan</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">0</price-adjust>
+            <price-adjust year="2020">0</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>
+
+      <region name="USA">
+         <linked-ghg-policy name="CO2">
+            <price-adjust fillout="1" year="1975">0</price-adjust>
+            <demand-adjust fillout="1" year="1975">1</demand-adjust>
+            <market>USA</market>
+            <linked-policy>CO2_TOTAL</linked-policy>
+            <price-unit>1990$/tC</price-unit>
+            <output-unit>MtC</output-unit>
+            <price-adjust year="2015">1</price-adjust>
+            <price-adjust year="2020">1</price-adjust>
+            <price-adjust year="2025" fillout="1">1</price-adjust>
+         </linked-ghg-policy>
+      </region>      
+   </world>
+</scenario>
